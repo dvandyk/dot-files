@@ -1,0 +1,5 @@
+URxvt.foreground: #cfbfad
+URxvt.background: #1e1e27
+URxvt.boldFont: -xos4-terminus-bold-r-normal--16-*-72-72-c-80-*
+URxvt.font: -xos4-terminus-medium-r-normal--16-*-72-72-c-80-*
+URxvt.visualBell: true
