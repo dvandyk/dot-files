@@ -1,0 +1,11 @@
+/* vim: set sts=4 et ft=css : */
+
+@-moz-document domain(google.com)
+{
+    .ii, /* message body */
+    .Ak  /* textarea when composing */
+    {
+        font-family:"Terminus", monospace !important;
+        font-size:100% !important;
+    }
+}
