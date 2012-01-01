@@ -1,0 +1,7 @@
+[user]
+	email = danny.van.dyk@gmail.com
+	name = Danny van Dyk
+[color]
+	diff = true
+[format]
+	pretty = "%C(yellow)%h%C(reset) %C(green)%s%C(reset) %C(red)%an <%ae> (%aD)%C(reset)"
